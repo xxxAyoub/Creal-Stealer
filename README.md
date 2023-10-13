@@ -13,7 +13,7 @@
 
 
 
-                                                      🤖 Futures
+                                                      🤖 Features
 
 
 - Grab Discord Token, Phone Number, E-mail and HQ Friends.
