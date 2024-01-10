@@ -14,23 +14,44 @@
                                                       🤖 Features
 
 
-- Grab Discord Token, Phone Number, E-mail and HQ Friends.
+-   Discord Information
+    -   Nitro
+    -   Badges
+    -   Billing
+    -   Email
+    -   Phone
+    -   HQ Friends
+    -   HQ Guilds
+    -   Gift Codes
 
-- Startup
+-   Discord Injection
+    - Send token, password, email and billing on login or when email/password is changed
 
-- Discord Injection:
+-   Application Data
+    -   Steam
+    -   Riot Games
+    -   Telegram
+
+-   System Information
+    -   User
+    -   System
+    -   Disk
+    -   Network
+
+ -   File Stealer
+    -   Grabs Seed Phrases, Tokens, Private Keys, Recovery Codes, Backup Codes, 2FA codes
+
+-   General Functions
+    -   Check if being run in a VirusTotal sandbox
+    -   Adds file to startup
+
 
 - Grab Browser cookies & passwords
 
-- Grab specials files
 
-- Grab Crypto Wallets. 🦊 Metamask, 🅰️ Atomic, 👾 Exodus, 🅱️ Binance, 💰 Coinbase, 🟡 Trust, 👻 Phantom
+- Grab Crypto Wallets. 🦊 Metamask, 🅰️ Atomic, 👾 Exodus, 🅱️ Binance, 💰 Coinbase, 🟡 Trust, 👻 Phantom ...
 
-- Grab Telegram
 
-- Grab Steam
-
-- Grab Riot Games
 
     
 
