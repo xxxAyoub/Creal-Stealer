@@ -46,7 +46,11 @@
     -   Adds file to startup
 
 
+
+
 - Grab Browser cookies & passwords
+
+
 
 
 - Grab Crypto Wallets. 🦊 Metamask, 🅰️ Atomic, 👾 Exodus, 🅱️ Binance, 💰 Coinbase, 🟡 Trust, 👻 Phantom ...
